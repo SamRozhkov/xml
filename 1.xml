@@ -1,197 +1,197 @@
 <BusinessPartner xmlns="urn:ibs.ru:MasterData:BusinessPartners" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-	<GID>805561</GID>
-	<OrgForm>
-		<GID>6</GID>
-		<ShortName>ИП</ShortName>
-		<FullName>Индивидуальный предприниматель</FullName>
-		<OKOPFCode>
-			<Name>Индивидуальные предприниматели</Name>
-			<Alg/>
-			<Status>0</Status>
-			<Date_Upd>2013-01-01</Date_Upd>
-			<Kod>50102</Kod>
-			<NomAkt>0</NomAkt>
-		</OKOPFCode>
-		<Actuality>true</Actuality>
-		<Comment/>
-	</OrgForm>
-	<ShortName>ИП Котельник Л.Р.</ShortName>
-	<FullName>Индивидуальный предприниматель Котельник Лилия Робертовна</FullName>
-	<INN>332708924201</INN>
-	<KPP/>
-	<LargestKPP/>
-	<PropertyForm/>
-	<MainOKVED/>
-	<OKPO>2019769034</OKPO>
-	<OGRN>322330000015618</OGRN>
-	<Web/>
-	<Email/>
-	<Phone/>
-	<Fax/>
-	<SuccessorGID/>
-	<PredecessorGID/>
-	<Country>
-		<Alfa2>RU</Alfa2>
-		<ShortName>Россия</ShortName>
-		<FullName>Российская Федерация</FullName>
-		<OKSM>
-			<Name1>РОССИЯ^Российская Федерация</Name1>
-			<Alfa2>RU</Alfa2>
-			<Alfa3>RUS</Alfa3>
-			<NomDescr/>
-			<Kod>643</Kod>
-			<Status>0</Status>
-			<Date_Upd/>
-			<NomAkt>0</NomAkt>
-		</OKSM>
-		<Actuality>true</Actuality>
-		<Offshore>false</Offshore>
-		<DateStartOffshore>1900-01-01</DateStartOffshore>
-	</Country>
-	<ForeignINN/>
-	<RegDate>2022-12-06</RegDate>
-	<TermDate>9999-12-31</TermDate>
-	<LegalAddress>
-		<AsPostal>true</AsPostal>
-		<PostCode>600901</PostCode>
-		<Region>
-			<FullName>Владимирская</FullName>
-			<ShortName>
-				<ShortName>обл</ShortName>
-				<FullName>Область</FullName>
-			</ShortName>
-			<KLADRCode>3300000000000</KLADRCode>
-			<PostalCode/>
-			<SOUNCode>3300</SOUNCode>
-			<OKATO>17000000000</OKATO>
-			<OKTMO>17000000</OKTMO>
-			<Actuality>
-				<GID>1</GID>
-				<Name>Актуальна</Name>
-			</Actuality>
-		</Region>
-		<City>
-			<FullName>Владимир</FullName>
-			<ShortName>
-				<ShortName>г</ShortName>
-				<FullName>Город</FullName>
-			</ShortName>
-			<KLADRCode>3300000100000</KLADRCode>
-			<PostalCode>600000</PostalCode>
-			<SOUNCode/>
-			<LocalSOUNCode/>
-			<OKATO>17401000000</OKATO>
-			<OKTMO>17701000</OKTMO>
-			<Status>
-				<StatusCode>2</StatusCode>
-				<Description>Объект является центром (столицей) региона</Description>
-			</Status>
-			<Actuality>
-				<GID>1</GID>
-				<Name>Актуальна</Name>
-			</Actuality>
-		</City>
-		<District/>
-		<Settlement>
-			<FullName>Юрьевец</FullName>
-			<ShortName>
-				<ShortName>мкр</ShortName>
-				<FullName>Микрорайон</FullName>
-			</ShortName>
-			<KLADRCode>3300000100500</KLADRCode>
-			<PostalCode>600901</PostalCode>
-			<SOUNCode>3327</SOUNCode>
-			<LocalSOUNCode/>
-			<OKATO>17401000000</OKATO>
-			<OKTMO>17701000</OKTMO>
-			<Status>
-				<StatusCode>0</StatusCode>
-				<Description>Объект не является центром административно-территориального образования</Description>
-			</Status>
-			<Actuality>
-				<GID>1</GID>
-				<Name>Актуальна</Name>
-			</Actuality>
-		</Settlement>
-		<Address>Мехалькова ул, 2, кв. 26</Address>
-		<AddressText>600901, Владимирская обл, Владимир г, Юрьевец мкр, Мехалькова ул, 2, кв. 26</AddressText>
-		<ForeignCity/>
-	</LegalAddress>
-	<BPType>
-		<Name>Прочие</Name>
-		<GID>9</GID>
-	</BPType>
-	<Status>
-		<Name>Эталон</Name>
-		<StatusCode>3</StatusCode>
-		<Comment/>
-	</Status>
-	<Comment/>
-	<SystemInfo>
-		<System>GK_EOS_DOGOVOR_P</System>
-	</SystemInfo>
-	<Actuality>true</Actuality>
-	<CreatedBy>Core-as-SAPS</CreatedBy>
-	<CreatedAt>2024-01-17T10:25:01Z</CreatedAt>
-	<UpdatedBy>YuSAbrashkina</UpdatedBy>
-	<UpdatedAt>2024-01-17T11:10:05Z</UpdatedAt>
-	<BPGroup/>
-	<RequestInfo>
-		<RequestID>5557373</RequestID>
-		<CreationDate>2024-01-17T13:25:01</CreationDate>
-		<RequestType>
-			<MID>1</MID>
-			<Name>Создание</Name>
-		</RequestType>
-		<RequestStatus>
-			<MID>25</MID>
-			<Name>Согласовано экспертом</Name>
-		</RequestStatus>
-		<ApprovalDate>2024-01-17T14:10:06</ApprovalDate>
-		<ApprovalPerson>Абрашкина Юлия</ApprovalPerson>
-		<RequestAuthor>Николаева Наталья</RequestAuthor>
-		<RequestAuthorId>USER.CORP_LDAP.nasenikolaeva</RequestAuthorId>
-		<ApprovalPersonId>USER.CORP_LDAP.yusabrashkina</ApprovalPersonId>
-		<RequestAuthorInfo>
-			<Login>NaSeNikolaeva</Login>
-			<Name>Николаева Наталья Сергеевна</Name>
-			<Company>АО "ВПО "ТОЧМАШ"</Company>
-			<UpdateUser>NNAbramenko</UpdateUser>
-			<UpdateTime>2018-04-19T15:44:05Z</UpdateTime>
-		</RequestAuthorInfo>
-		<RequestAuthorCompany>АО "ВПО "ТОЧМАШ"</RequestAuthorCompany>
-		<RequestTable>
-			<Code>BP</Code>
-			<Name>Контрагенты</Name>
-		</RequestTable>
-		<UpdateUser>Core-as-SAPS</UpdateUser>
-		<UpdateTime>2024-01-17T11:10:06Z</UpdateTime>
-	</RequestInfo>
-	<FullNameInt/>
-	<ShortNameInt/>
-	<BudgetingGroup/>
-	<BranchPlace>
-		<GID>0</GID>
-		<Name>не является обособленным подразделением</Name>
-	</BranchPlace>
-	<History/>
-	<IFRSConsolidation>false</IFRSConsolidation>
-	<RASConsolidation>false</RASConsolidation>
-	<PublicCompany>false</PublicCompany>
-	<LegalAddressInt/>
-	<PayerNdp>false</PayerNdp>
-	<StartDateNdp>1900-01-01</StartDateNdp>
-	<PayerTaxZero>false</PayerTaxZero>
-	<DateStartTaxZero>1900-01-01</DateStartTaxZero>
-	<PayerTax>false</PayerTax>
-	<DateStartTax>1900-01-01</DateStartTax>
-	<PayerEnvd>false</PayerEnvd>
-	<DateStartEnvd>1900-01-01</DateStartEnvd>
-	<BPOez>false</BPOez>
-	<DateStartBP>1900-01-01</DateStartBP>
-	<DateStartInter>1900-01-01</DateStartInter>
-	<SubMsp>
-		<GID>1</GID>
-		<Name>Малый бизнес</Name>
-	</SubMsp>
+    <GID>805561</GID>
+    <OrgForm>
+        <GID>6</GID>
+        <ShortName>ИП</ShortName>
+        <FullName>Индивидуальный предприниматель</FullName>
+        <OKOPFCode>
+            <Name>Индивидуальные предприниматели</Name>
+            <Alg/>
+            <Status>0</Status>
+            <Date_Upd>2013-01-01</Date_Upd>
+            <Kod>50102</Kod>
+            <NomAkt>0</NomAkt>
+        </OKOPFCode>
+        <Actuality>true</Actuality>
+        <Comment/>
+    </OrgForm>
+    <ShortName>ИП Котельник Л.Р.</ShortName>
+    <FullName>Индивидуальный предприниматель Котельник Лилия Робертовна</FullName>
+    <INN>332708924201</INN>
+    <KPP/>
+    <LargestKPP/>
+    <PropertyForm/>
+    <MainOKVED/>
+    <OKPO>2019769034</OKPO>
+    <OGRN>322330000015618</OGRN>
+    <Web/>
+    <Email/>
+    <Phone/>
+    <Fax/>
+    <SuccessorGID/>
+    <PredecessorGID/>
+    <Country>
+        <Alfa2>RU</Alfa2>
+        <ShortName>Россия</ShortName>
+        <FullName>Российская Федерация</FullName>
+        <OKSM>
+            <Name1>РОССИЯ^Российская Федерация</Name1>
+            <Alfa2>RU</Alfa2>
+            <Alfa3>RUS</Alfa3>
+            <NomDescr/>
+            <Kod>643</Kod>
+            <Status>0</Status>
+            <Date_Upd/>
+            <NomAkt>0</NomAkt>
+        </OKSM>
+        <Actuality>true</Actuality>
+        <Offshore>false</Offshore>
+        <DateStartOffshore>1900-01-01</DateStartOffshore>
+    </Country>
+    <ForeignINN/>
+    <RegDate>2022-12-06</RegDate>
+    <TermDate>9999-12-31</TermDate>
+    <LegalAddress>
+        <AsPostal>true</AsPostal>
+        <PostCode>600901</PostCode>
+        <Region>
+            <FullName>Владимирская</FullName>
+            <ShortName>
+                <ShortName>обл</ShortName>
+                <FullName>Область</FullName>
+            </ShortName>
+            <KLADRCode>3300000000000</KLADRCode>
+            <PostalCode/>
+            <SOUNCode>3300</SOUNCode>
+            <OKATO>17000000000</OKATO>
+            <OKTMO>17000000</OKTMO>
+            <Actuality>
+                <GID>1</GID>
+                <Name>Актуальна</Name>
+            </Actuality>
+        </Region>
+        <City>
+            <FullName>Владимир</FullName>
+            <ShortName>
+                <ShortName>г</ShortName>
+                <FullName>Город</FullName>
+            </ShortName>
+            <KLADRCode>3300000100000</KLADRCode>
+            <PostalCode>600000</PostalCode>
+            <SOUNCode/>
+            <LocalSOUNCode/>
+            <OKATO>17401000000</OKATO>
+            <OKTMO>17701000</OKTMO>
+            <Status>
+                <StatusCode>2</StatusCode>
+                <Description>Объект является центром (столицей) региона</Description>
+            </Status>
+            <Actuality>
+                <GID>1</GID>
+                <Name>Актуальна</Name>
+            </Actuality>
+        </City>
+        <District/>
+        <Settlement>
+            <FullName>Юрьевец</FullName>
+            <ShortName>
+                <ShortName>мкр</ShortName>
+                <FullName>Микрорайон</FullName>
+            </ShortName>
+            <KLADRCode>3300000100500</KLADRCode>
+            <PostalCode>600901</PostalCode>
+            <SOUNCode>3327</SOUNCode>
+            <LocalSOUNCode/>
+            <OKATO>17401000000</OKATO>
+            <OKTMO>17701000</OKTMO>
+            <Status>
+                <StatusCode>0</StatusCode>
+                <Description>Объект не является центром административно-территориального образования</Description>
+            </Status>
+            <Actuality>
+                <GID>1</GID>
+                <Name>Актуальна</Name>
+            </Actuality>
+        </Settlement>
+        <Address>Мехалькова ул, 2, кв. 26</Address>
+        <AddressText>600901, Владимирская обл, Владимир г, Юрьевец мкр, Мехалькова ул, 2, кв. 26</AddressText>
+        <ForeignCity/>
+    </LegalAddress>
+    <BPType>
+        <Name>Прочие</Name>
+        <GID>9</GID>
+    </BPType>
+    <Status>
+        <Name>Эталон</Name>
+        <StatusCode>3</StatusCode>
+        <Comment/>
+    </Status>
+    <Comment/>
+    <SystemInfo>
+        <System>GK_EOS_DOGOVOR_P</System>
+    </SystemInfo>
+    <Actuality>true</Actuality>
+    <CreatedBy>Core-as-SAPS</CreatedBy>
+    <CreatedAt>2024-01-17T10:25:01Z</CreatedAt>
+    <UpdatedBy>YuSAbrashkina</UpdatedBy>
+    <UpdatedAt>2024-01-17T11:10:05Z</UpdatedAt>
+    <BPGroup/>
+    <RequestInfo>
+        <RequestID>5557373</RequestID>
+        <CreationDate>2024-01-17T13:25:01</CreationDate>
+        <RequestType>
+            <MID>1</MID>
+            <Name>Создание</Name>
+        </RequestType>
+        <RequestStatus>
+            <MID>25</MID>
+            <Name>Согласовано экспертом</Name>
+        </RequestStatus>
+        <ApprovalDate>2024-01-17T14:10:06</ApprovalDate>
+        <ApprovalPerson>Абрашкина Юлия</ApprovalPerson>
+        <RequestAuthor>Николаева Наталья</RequestAuthor>
+        <RequestAuthorId>USER.CORP_LDAP.nasenikolaeva</RequestAuthorId>
+        <ApprovalPersonId>USER.CORP_LDAP.yusabrashkina</ApprovalPersonId>
+        <RequestAuthorInfo>
+            <Login>NaSeNikolaeva</Login>
+            <Name>Николаева Наталья Сергеевна</Name>
+            <Company>АО "ВПО "ТОЧМАШ"</Company>
+            <UpdateUser>NNAbramenko</UpdateUser>
+            <UpdateTime>2018-04-19T15:44:05Z</UpdateTime>
+        </RequestAuthorInfo>
+        <RequestAuthorCompany>АО "ВПО "ТОЧМАШ"</RequestAuthorCompany>
+        <RequestTable>
+            <Code>BP</Code>
+            <Name>Контрагенты</Name>
+        </RequestTable>
+        <UpdateUser>Core-as-SAPS</UpdateUser>
+        <UpdateTime>2024-01-17T11:10:06Z</UpdateTime>
+    </RequestInfo>
+    <FullNameInt/>
+    <ShortNameInt/>
+    <BudgetingGroup/>
+    <BranchPlace>
+        <GID>0</GID>
+        <Name>не является обособленным подразделением</Name>
+    </BranchPlace>
+    <History/>
+    <IFRSConsolidation>false</IFRSConsolidation>
+    <RASConsolidation>false</RASConsolidation>
+    <PublicCompany>false</PublicCompany>
+    <LegalAddressInt/>
+    <PayerNdp>false</PayerNdp>
+    <StartDateNdp>1900-01-01</StartDateNdp>
+    <PayerTaxZero>false</PayerTaxZero>
+    <DateStartTaxZero>1900-01-01</DateStartTaxZero>
+    <PayerTax>false</PayerTax>
+    <DateStartTax>1900-01-01</DateStartTax>
+    <PayerEnvd>false</PayerEnvd>
+    <DateStartEnvd>1900-01-01</DateStartEnvd>
+    <BPOez>false</BPOez>
+    <DateStartBP>1900-01-01</DateStartBP>
+    <DateStartInter>1900-01-01</DateStartInter>
+    <SubMsp>
+        <GID>1</GID>
+        <Name>Малый бизнес</Name>
+    </SubMsp>
 </BusinessPartner>
